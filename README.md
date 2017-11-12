@@ -1,0 +1,3 @@
+# mygopkg
+
+First info
