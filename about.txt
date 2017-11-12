@@ -1,0 +1,5 @@
+This is the documentation to show my understanding about GO language.
+
+commands:
+    go help
+    go env  //set go environment
