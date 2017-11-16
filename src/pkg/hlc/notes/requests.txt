@@ -1,0 +1,60 @@
+GET /dictionary.php?isAJ=1&act=verify_security_code&x=192&y=17 HTTP/1.1
+Host: www.hellochao.vn
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: https://www.hellochao.vn/tu-dien-tach-ghep-am/?lang=&type=sentence&act=search&sct=fall+through
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.8,vi;q=0.6
+Cookie: G_ENABLED_IDPS=google; PHPSESSID=Ikpqj8hLPn1BXrHYpqhaV6HyYAb; TawkConnectionTime=0; __tawkuuid=e::hellochao.vn::2Wf3kUPwQS96pwBerC//AY4pmLcrRyUbjY8Ovkw+zYPnBEFcy0uJie1f5jO2Gp1W::2; Tawk_57d7cf81cccb3b470ce023e1=vs19.tawk.to::0; IS_WARNING_PRE_CLOSE=1; CUSER_INFO=a%28.3a3.f2mc3amelg4.sbce%2A%2A52c2o2h0m0a1af69b98n3cufnd%4001e271%291ivAU; __utma=48272063.338720649.1505846065.1510482763.1510487953.24; __utmc=48272063; __utmz=48272063.1505846065.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.2.338720649.1505846065; _gid=GA1.2.738118984.1510412472
+
+HTTP/1.1 200 OK
+Date: Sun, 12 Nov 2017 12:49:52 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 81
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+
+
+
+
+
+GET /dictionary.php?isAJ=1&act=verify_security_code&x=45&y=23 HTTP/1.1
+Host: www.hellochao.vn
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Referer: https://www.hellochao.vn/tu-dien-tach-ghep-am/?act=search&lang=&sct=he%27s&type=sentence
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+Cookie: G_ENABLED_IDPS=google; CUSER_INFO=a%28.3a3.f2mc3amelg4.sbce%2A%2A52c2o2h0m0a1af69b98n3cufnd%4001e271%291ivAU; PHPSESSID=In6PWkkYHCU%2C9v8dsrTx3rNabH5; TawkConnectionTime=0; __tawkuuid=e::hellochao.vn::2Wf3kUPwQS96pwBerC//AY4pmLcrRyUbjY8Ovkw+zYPnBEFcy0uJie1f5jO2Gp1W::2; Tawk_57d7cf81cccb3b470ce023e1=vs58.tawk.to::0; __utma=48272063.338720649.1505846065.1510782924.1510809363.32; __utmb=48272063.7.10.1510809363; __utmc=48272063; __utmz=48272063.1505846065.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.2.338720649.1505846065; _gid=GA1.2.137572233.1510725443
+
+
+HTTP/1.1 200 OK
+Date: Thu, 16 Nov 2017 06:04:15 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 81
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+<?xml version="1.0"?>
+<r><h><h1>&amp;</h1></h><c><rs>0</rs></c></r>
